@@ -1,3 +1,3 @@
 # React Query Demo
 
-Video: Coming soon
+Video: https://youtu.be/OorL3E7oCjA
