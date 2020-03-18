@@ -8349,6 +8349,16 @@ react-is@^16.8.1, react-is@^16.8.4:
   resolved "https://registry.yarnpkg.com/react-is/-/react-is-16.12.0.tgz#2cc0fe0fba742d97fd527c42a13bec4eeb06241c"
   integrity sha512-rPCkf/mWBtKc97aLL9/txD8DZdemK0vkA3JMLShjlJB3Pj3s+lpf1KaBzMfQrAmhMQB0n1cU/SUGgKKBCe837Q==
 
+react-query-devtools@^1.0.12:
+  version "1.0.12"
+  resolved "https://registry.yarnpkg.com/react-query-devtools/-/react-query-devtools-1.0.12.tgz#64c156efde718f8483fd94fa44108c5c8e0c9568"
+  integrity sha512-kjIh9Z2UgZxxrd6TdenpWDofT/2cAaN/9vn+/FEPkdmfWTPmNw1zevEuDqZtE+ZhM70YIPS4RzO9kgEBt3dZcQ==
+
+react-query@^1.0.28:
+  version "1.0.28"
+  resolved "https://registry.yarnpkg.com/react-query/-/react-query-1.0.28.tgz#c8d2ef8b86ac7c521d51793538739f5d80eb1493"
+  integrity sha512-QMgw8wSgZyIbciH2UbpXKb+TuFR3/PC+oU1r3al9hlK3nZIn9r87LGE1n+K0ridSPXl3Zl0yJcuoP/OnaTTZmQ==
+
 react-scripts@3.4.0:
   version "3.4.0"
   resolved "https://registry.yarnpkg.com/react-scripts/-/react-scripts-3.4.0.tgz#f413680f0b5b937c8879ba1ffdae9b8c5b364bf5"
